@@ -6,3 +6,4 @@ def factorial(N):
     return N * factorial(N - 1)
 
 print(factorial(5))
+print(factorial(8))
