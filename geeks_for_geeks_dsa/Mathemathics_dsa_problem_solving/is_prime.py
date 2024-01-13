@@ -2,6 +2,8 @@
 # why we used the while loop here for the reason of when we checking the prime number less than < 1to 25 
 # is find out from the remaing condition but above 25 to n numbers is count on the while loop. 
 
+# and we have to run the while loop upto the square-root of the number apart from we don't need check.
+
 def is_prime(number):
     if number == 0:
         return False
